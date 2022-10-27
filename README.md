@@ -25,15 +25,15 @@ Users should be able to:
 
 - See hover states for interactive elements
 
-### Screenshot
+### Screenshots
 
 ![](./screenshots/mobile.png)
 ![](./screenshots/desktop.png)
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL:(https://www.frontendmentor.io/solutions/order-summary-card-using-flexbox-v94F5my86m)
+- Live Site URL:(https://mauritzlm.github.io/order-summary-card/)
 
 ## My process
 
@@ -79,7 +79,7 @@ Some things that I want to focus on learning:
 ### Useful resources
 
 - [css-tricks flexbox article](https://css-tricks.com/snippets/css/a-guide-to-flexbox/) - I always refer to this article when using flexbox.
-- [11 ways to center a div or text with css](https://blog.hubspot.com/website/center-div-css#:~:text=You%20can%20do%20this%20by,the%20div)%20vertically%20and%20horizontally.) - This showed me how to center a div using flexbox.
+- [11 ways to center a div or text with css](https://blog.hubspot.com/website/center-div-css#:~:text=You%20can%20do%20this%20by,the%20div%20vertically%20and%20horizontally.) - This showed me how to center a div using flexbox.
 - [mdn guides](https://developer.mozilla.org/en-US/docs/Learn) - I use the mdn learning section if I get stuck or forget some of the basics.
 
 ## Author
